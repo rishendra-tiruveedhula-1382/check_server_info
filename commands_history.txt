@@ -96,3 +96,59 @@ nvim
 : 1754547519:0;nvim check.sh
 : 1754547546:0;cd
 : 1754547553:0;/home/ec2-user/Desktop/check_server_info/check.sh
+: 1754547874:0;whoami
+: 1754547884:0;sudo adduser rishi
+: 1754547890:0;sudo passwd rishi
+: 1754547917:0;su rishi
+: 1754548057:0;whoami
+: 1754548108:0;exit
+: 1754548238:0;nvim /etc/ssh/ssh_config.d
+: 1754548249:0;cd /etc/ssh/ssh_config.d
+: 1754548251:0;ll -a
+: 1754548256:0;cat 50-redhat.conf
+: 1754548277:0;nvim password_login_rishi.conf
+: 1754548311:0;sudo nvim password_login_rishi.conf
+: 1754548319:0;sudo vi password_login_rishi.conf
+: 1754548390:0;sudo systemctl restart ssh.service
+: 1754548397:0;sudo systemctl restart sshd.service
+: 1754548559:0;exit
+: 1754548583:0;sudo systemctl restart ssh-access.target
+: 1754548596:0;ll
+: 1754548608:0;cat password_login_rishi.conf
+: 1754548657:0;cd /etc/ssh
+: 1754548659:0;ll
+: 1754548669:0;sudo vi ssh_config
+: 1754548703:0;cd ..
+: 1754548707:0;cd cloud
+: 1754548707:0;ll
+: 1754548714:0;sudo vi cloud.cfg
+: 1754548758:0;cd cloud.cfg.d
+: 1754548766:0;ll
+: 1754548777:0;cat 00-rhel-default-user.cfg
+: 1754548803:0;sudo systemctl restart sshd.service
+: 1754548884:0;cd
+: 1754548894:0;cd .ssh/
+: 1754548895:0;ll -a
+: 1754549088:0;cd
+: 1754549094:0;cd /etc/ssh
+: 1754549104:0;sudo vi ssh_config
+: 1754549148:0;cd ssh_config.d
+: 1754549149:0;ll
+: 1754549154:0;sudo vi password_login_rishi.conf
+: 1754549177:0;service ssh restart
+: 1754549190:0;sudo passwd
+: 1754549203:0;service ssh restart
+: 1754549228:0;service sshd restart
+: 1754549345:0;ll -a
+: 1754549347:0;cd ..
+: 1754549349:0;ll -a
+: 1754549373:0;cat sshd_config
+: 1754549379:0;sudo cat sshd_config
+: 1754549393:0;sudo vi sshd_config
+: 1754549422:0;service sshd restart
+: 1754549506:0;cd
+: 1754549509:0;crontab -l
+: 1754549759:0;curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh
+: 1754549810:0;cat .zshrc
+: 1754549836:0;. "$HOME/.cargo/env"
+: 1754549852:0;cargo install --locked zellij
