@@ -156,3 +156,5 @@ nvim
 : 1754550956:0;crontab -l
 : 1754551112:0;crontab -e
 : 1754551126:0;crontab -l
+: 1754557861:0;cat /etc/redhat-release
+: 1754557950:0;cat Desktop/check_server_info/check.sh
