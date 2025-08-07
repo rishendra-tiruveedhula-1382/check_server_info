@@ -158,3 +158,10 @@ nvim
 : 1754551126:0;crontab -l
 : 1754557861:0;cat /etc/redhat-release
 : 1754557950:0;cat Desktop/check_server_info/check.sh
+: 1754572578:0;java-version
+: 1754572597:0;sudo yum install java-1.8.0-openjdk
+: 1754572709:0;sudo update-alternatives --config 'java'
+: 1754572720:0;sudo yum install java-1.8.0-openjdk
+: 1754572728:0;sudo yum update
+: 1754572735:0;sudo yum install java-1.8.0-openjdk
+: 1754572772:0;rhc
