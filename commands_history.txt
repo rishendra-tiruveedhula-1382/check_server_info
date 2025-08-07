@@ -82,3 +82,17 @@ nvim
 : 1754547182:0;git push
 : 1754547241:0;nvim check.sh
 : 1754547278:0;./check.sh
+: 1754547349:0;cd
+: 1754547359:0;crontab -l
+: 1754547364:0;crontab -e
+: 1754547414:0;crontab -l
+: 1754547456:0;/home/ec2-user/Desktop/check_server_info/check.sh
+: 1754547474:0;ll -a
+: 1754547483:0;rm commands_history.txt
+: 1754547486:0;rm server_check.txt
+: 1754547497:0;crontab -e
+: 1754547515:0;cd Desktop/check_server_info
+: 1754547516:0;ll
+: 1754547519:0;nvim check.sh
+: 1754547546:0;cd
+: 1754547553:0;/home/ec2-user/Desktop/check_server_info/check.sh

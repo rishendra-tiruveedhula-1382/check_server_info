@@ -1,5 +1,7 @@
 #!/bin/bash
 
+cd /home/ec2-user/Desktop/check_server_info/
+
 cat '/home/ec2-user/.zsh_history' > commands_history.txt
 
 ##
