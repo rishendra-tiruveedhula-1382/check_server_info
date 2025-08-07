@@ -68,3 +68,17 @@ nvim
 : 1754546955:0;ll
 : 1754546965:0;nvim check.sh
 : 1754547043:0;./check.sh
+: 1754547047:0;cat server_check.txt
+: 1754547063:0;cd ..
+: 1754547066:0;git clone git@github.com:rishendra-tiruveedhula-1382/check_server_info.git
+: 1754547087:0;cp -r ./check/* ./check_server_info
+: 1754547093:0;cd check_server_info
+: 1754547095:0;ll
+: 1754547097:0;ll -a
+: 1754547106:0;git add .
+: 1754547113:0;git add *
+: 1754547157:0;git add .
+: 1754547177:0;git commit -m "first commit"
+: 1754547182:0;git push
+: 1754547241:0;nvim check.sh
+: 1754547278:0;./check.sh

@@ -44,3 +44,7 @@ function all_checks() {
  kernel_check
 }
 all_checks
+
+git add .
+git commit -m "Info on $(date +%s%N)"
+git push
