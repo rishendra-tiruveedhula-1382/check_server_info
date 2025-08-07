@@ -1,0 +1,70 @@
+: 1754473019:0;cd .oh-my-zsh/custom/plugins
+: 1754473024:0;git clone https://github.com/zsh-users/zsh-autosuggestions
+: 1754473057:0;git clone https://github.com/zsh-users/zsh-fast-syntax-highlighting
+: 1754473096:0;git clone https://github.com/zsh-users/zsh-syntax-highlighting.git
+: 1754473100:0;cd
+: 1754473115:0;vi .zshrc
+: 1754473165:0;source .zshrc
+: 1754473171:0;ls -la
+: 1754473245:0;ll
+: 1754473249:0;ll -la
+: 1754473255:0;ll -a
+: 1754473561:0;exit
+: 1754544677:0;free -h
+: 1754545031:0;ll
+: 1754545042:0;mkdir Desktop
+: 1754545044:0;cd Desktop
+: 1754545062:0;nvim check.sh
+: 1754545085:0;curl -LO https://github.com/neovim/neovim/releases/latest/download/nvim-linux-x86_64.tar.gz\
+sudo rm -rf /opt/nvim\
+sudo tar -C /opt -xzf nvim-linux-x86_64.tar.gz
+: 1754545091:0;cd
+: 1754545095:0;vi .zshrc
+: 1754545108:0;source .zshrc
+: 1754545112:0;cd Desktop
+: 1754545115:0;nvim check.sh
+: 1754546191:0;cd Desktop
+: 1754546193:0;nvim check.sh
+: 1754546230:0;git clone --depth 1 https://github.com/AstroNvim/template ~/.config/nvim\
+rm -rf ~/.config/nvim/.git\
+nvim
+: 1754546250:0;nvim check.sh
+: 1754546330:0;ll
+: 1754546334:0;chmod +x check.sh
+: 1754546336:0;./check.sh
+: 1754546353:0;mkdir check
+: 1754546363:0;cp ./check.sh ./check/
+: 1754546365:0;cd check
+: 1754546367:0;ll
+: 1754546389:0;ssh-keygen
+: 1754546410:0;cat ~/.ssh/id_ed25519
+: 1754546423:0;cat ~/.ssh/id_ed25519.pub
+: 1754546514:0;git clone git@github.com:rishendra-tiruveedhula-1382/check_server_info.git
+: 1754546525:0;ll
+: 1754546527:0;ll -a
+: 1754546536:0;nvim check.sh
+: 1754546604:0;cd
+: 1754546605:0;ll
+: 1754546606:0;ll -a
+: 1754546614:0;cat .zsh_history
+: 1754546630:0;cd Desktop
+: 1754546631:0;ll
+: 1754546641:0;cd check
+: 1754546644:0;nvim check.sh
+: 1754546831:0;./check.sh
+: 1754546838:0;nvim check.sh
+: 1754546846:0;which bash
+: 1754546849:0;nvim check.sh
+: 1754546868:0;pwd
+: 1754546874:0;nvim check.sh
+: 1754546893:0;./check.sh
+: 1754546896:0;ll
+: 1754546904:0;cat commands_history.txt
+: 1754546906:0;ll
+: 1754546911:0;cat server_check.txt
+: 1754546928:0;cat check_server_info
+: 1754546942:0;ll -a check_server_info
+: 1754546953:0;rm -rf check_server_info
+: 1754546955:0;ll
+: 1754546965:0;nvim check.sh
+: 1754547043:0;./check.sh
