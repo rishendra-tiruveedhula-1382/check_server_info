@@ -1,13 +1,13 @@
 
 Memory usage on ip-172-31-23-250.eu-north-1.compute.internal is: 
                total        used        free      shared  buff/cache   available
-Mem:           907Mi       428Mi       172Mi       9.6Mi       468Mi       478Mi
+Mem:           907Mi       430Mi       169Mi       9.6Mi       468Mi       476Mi
 Swap:             0B          0B          0B
 
 
 CPU load on ip-172-31-23-250.eu-north-1.compute.internal is: 
 
- 12:05:01 up 1 day,  6:04,  2 users,  load average: 0.00, 0.00, 0.00
+ 12:10:02 up 1 day,  6:09,  2 users,  load average: 0.00, 0.00, 0.00
 
 
 TCP connections on ip-172-31-23-250.eu-north-1.compute.internal: 
