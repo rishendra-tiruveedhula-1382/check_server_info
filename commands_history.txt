@@ -152,3 +152,7 @@ nvim
 : 1754549810:0;cat .zshrc
 : 1754549836:0;. "$HOME/.cargo/env"
 : 1754549852:0;cargo install --locked zellij
+: 1754550778:0;tunnel
+: 1754550956:0;crontab -l
+: 1754551112:0;crontab -e
+: 1754551126:0;crontab -l
