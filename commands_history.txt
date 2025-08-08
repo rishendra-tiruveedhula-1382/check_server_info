@@ -168,3 +168,6 @@ nvim
 : 1754630773:0;subscription-manager register --username rishendra2003 --password ZDYrNmPTk95yp%
 : 1754630779:0;sudo subscription-manager register --username rishendra2003 --password ZDYrNmPTk95yp%
 : 1754631300:0;sudo subscription-manager register
+: 1754631356:0;sudo yum install java-1.8.0-openjdk
+: 1754631478:0;yum search jdk
+: 1754631488:0;sudo yum search jdk
