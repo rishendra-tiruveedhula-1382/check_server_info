@@ -226,3 +226,8 @@ nvim
 : 1754637114:0;sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
 : 1754637127:0;sudo yum remove xorg-x11-server-Xwayland.x86_64
 : 1754637892:0;sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+: 1754637934:0;sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+: 1754638029:0;sudo dnf install xorg-x11-utils
+: 1754638128:0;sudo dnf install xrandr xprop xev xdpyinfo
+: 1754638136:0;dnf provides */xrandr
+: 1754638165:0;sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
