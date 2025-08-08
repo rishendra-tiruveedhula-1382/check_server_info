@@ -175,3 +175,9 @@ nvim
 : 1754631774:0;java -version
 : 1754631788:0;sudo yum install wget
 : 1754631890:0;wget https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+: 1754632008:0;ll
+: 1754632013:0;chmod +x oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+: 1754632052:0;sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+: 1754632162:0;wget https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+: 1754632166:0;ll
+: 1754632173:0;chmod +x oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
