@@ -218,3 +218,10 @@ nvim
 : 1754633800:0;rm oracle21c-linux-downloads.html
 : 1754633874:0;sudo yum install oracle-database-preinstall-21c
 : 1754636936:0;sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+: 1754637036:0;sudo yum serach x11
+: 1754637045:0;sudo yum search x11
+: 1754637085:0;sudo yum install xrog-x11-server-Xwayland
+: 1754637093:0;sudo yum install xrog-x11-server-Xwayland.x86_64
+: 1754637105:0;sudo yum install xorg-x11-server-Xwayland.x86_64
+: 1754637114:0;sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+: 1754637127:0;sudo yum remove xorg-x11-server-Xwayland.x86_64
