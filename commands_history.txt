@@ -202,3 +202,8 @@ nvim
 : 1754633049:0;sudo subscription-manager repos --enable=codeready-builder-for-rhel-10-rhui-rpms
 : 1754633060:0;yum repolist all
 : 1754633080:0;sudo subscription-manager repos --enable=codeready-builder-for-rhel-10-rhui-source-rpms
+: 1754633105:0;sudo subscription-manager repos --enable=rhel-10-supplementary-rhui-rpms
+: 1754633247:0;sudo yum search xorg
+: 1754633339:0;ll
+: 1754633359:0;sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+: 1754633379:0;sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm --nobest
