@@ -231,3 +231,7 @@ nvim
 : 1754638128:0;sudo dnf install xrandr xprop xev xdpyinfo
 : 1754638136:0;dnf provides */xrandr
 : 1754638165:0;sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+: 1754638250:0;sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm --skip-broken
+: 1754638258:0;sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+: 1754638276:0;sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm --skip-broken
+: 1754638289:0;sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
