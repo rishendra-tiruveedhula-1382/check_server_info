@@ -189,3 +189,9 @@ nvim
 : 1754632417:0;sudo yum search compat
 : 1754632440:0;sudo yum search openssl
 : 1754632452:0;sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+: 1754632545:0;sudo yum search jdk
+: 1754632562:0;sudo yum search java
+: 1754632629:0;sudo yum -y install oracle-database-ee-21c
+: 1754632676:0;ls -la /etc/yum.repos.d
+: 1754632693:0;cat /etc/yum.repos.d/redhat-rhui.repo
+: 1754632787:0;wget ftp://ftp.cs.cuhk.edu.hk/pub/X11
