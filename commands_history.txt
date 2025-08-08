@@ -235,3 +235,8 @@ nvim
 : 1754638258:0;sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
 : 1754638276:0;sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm --skip-broken
 : 1754638289:0;sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+: 1754638602:0;wget https://www.rpmfind.net/linux/centos-stream/9-stream/AppStream/x86_64/os/Packages/xorg-x11-utils-7.5-40.el9.x86_64.rpm
+: 1754638608:0;sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+: 1754638614:0;ll
+: 1754638618:0;chmod +x xorg-x11-utils-7.5-40.el9.x86_64.rpm
+: 1754638626:0;sudo yum localinstall xorg-x11-utils-7.5-40.el9.x86_64.rpm
