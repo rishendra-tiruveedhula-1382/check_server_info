@@ -195,3 +195,10 @@ nvim
 : 1754632676:0;ls -la /etc/yum.repos.d
 : 1754632693:0;cat /etc/yum.repos.d/redhat-rhui.repo
 : 1754632787:0;wget ftp://ftp.cs.cuhk.edu.hk/pub/X11
+: 1754632849:0;sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+: 1754632888:0;sudo dnf install xorg-x11-utils
+: 1754632967:0;yum repolist all
+: 1754633044:0;subscription-manager repos --enable=codeready-builder-for-rhel-10-rhui-rpms
+: 1754633049:0;sudo subscription-manager repos --enable=codeready-builder-for-rhel-10-rhui-rpms
+: 1754633060:0;yum repolist all
+: 1754633080:0;sudo subscription-manager repos --enable=codeready-builder-for-rhel-10-rhui-source-rpms
