@@ -181,3 +181,11 @@ nvim
 : 1754632162:0;wget https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
 : 1754632166:0;ll
 : 1754632173:0;chmod +x oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+: 1754632202:0;sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+: 1754632269:0;sudo yum install xorg-x11-font-utils.x86_64
+: 1754632277:0;sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+: 1754632287:0;sudo yum remove xorg-x11-font-utils.x86_64
+: 1754632364:0;sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+: 1754632417:0;sudo yum search compat
+: 1754632440:0;sudo yum search openssl
+: 1754632452:0;sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
