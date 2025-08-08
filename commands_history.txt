@@ -212,3 +212,8 @@ nvim
 : 1754633462:0;sudo dnf install xorg-x11-utils
 : 1754633674:0;sudo dnf localinstall ./oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
 : 1754633694:0;ll
+: 1754633712:0;sudo dnf localinstall ./oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+: 1754633782:0;wget https://www.oracle.com/database/technologies/oracle21c-linux-downloads.html\#license-lightbox
+: 1754633792:0;ll
+: 1754633800:0;rm oracle21c-linux-downloads.html
+: 1754633874:0;sudo yum install oracle-database-preinstall-21c
